@@ -1,3 +1,8 @@
+mac版的delve编译版本，省的大家编译了，文件为cmd/dlv，直接下载即可使用，goland记得复制到goland的插件文件夹下，一般是/Applications/GoLand.app/Contents/plugins/intellij-go-plugin/lib/dlv/mac/dlv
+
+
+
+
 ![Delve](https://raw.githubusercontent.com/go-delve/delve/master/assets/delve_horizontal.png)
 
 [![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/go-delve/delve/master/LICENSE)
